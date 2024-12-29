@@ -21,6 +21,9 @@
     "sanity": "^3.68.3",
     "styled-components": "^6.1.13"
   },
+  "resolutions": {
+    "@sanity/icons": "^3.5.3"
+  },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "@types/node": "^20",
